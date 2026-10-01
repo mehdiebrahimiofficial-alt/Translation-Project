@@ -93,6 +93,3 @@ Translation uses **greedy decoding**:
 - Use more encoder/decoder layers, more epochs, and longer sequences for better translations.
 - Beam search can improve results over greedy decoding.
 
-## License
-
-Add your preferred license here.
